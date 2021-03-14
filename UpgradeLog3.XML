@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="glutglsl">
+</Property><Property Name="Solution File" Value="D:\cours ensgnement\2016 - 2017\S2\SGPU\20152016\TP0Shader\glutglsl.sln">
+</Property><Property Name="User Options File" Value="D:\cours ensgnement\2016 - 2017\S2\SGPU\20152016\TP0Shader\glutglsl.suo">
+</Property><Property Name="Date" Value="mardi 31 janvier 2017">
+</Property><Property Name="Time" Value="00:28">
+</Property><Property Name="Log Number" Value="3">
+</Property></Properties><Event ErrorLevel="2" Project="" Source="glutglsl.sln" Description="Error creating backup file: D:\cours ensgnement\2016 - 2017\S2\SGPU\20152016\TP0Shader\glutglsl.sln.old">
+</Event><Event ErrorLevel="2" Project="" Source="glutglsl.suo" Description="Error creating backup file: D:\cours ensgnement\2016 - 2017\S2\SGPU\20152016\TP0Shader\glutglsl.suo.old">
+</Event><Event ErrorLevel="0" Project="glutglsl" Source="glutglsl.vcproj" Description="Converting project file 'D:\cours ensgnement\2016 - 2017\S2\SGPU\20152016\TP0Shader\glutglsl.vcproj'.">
+</Event><Event ErrorLevel="1" Project="glutglsl" Source="glutglsl.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="glutglsl" Source="glutglsl.vcproj" Description="MSB8012: $(TargetPath) ('D:\cours ensgnement\2016 - 2017\S2\SGPU\20152016\TP0Shader\.\Release\glutglsl.exe') does not match the Linker's OutputFile property value '.\Release/glutglsl.exe' ('D:\cours ensgnement\2016 - 2017\S2\SGPU\20152016\TP0Shader\Release/glutglsl.exe') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="glutglsl" Source="glutglsl.vcproj" Description="MSB8012: $(TargetPath) ('D:\cours ensgnement\2016 - 2017\S2\SGPU\20152016\TP0Shader\.\Debug\glutglsl.exe') does not match the Linker's OutputFile property value '.\Debug/glutglsl.exe' ('D:\cours ensgnement\2016 - 2017\S2\SGPU\20152016\TP0Shader\Debug/glutglsl.exe') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="glutglsl" Source="glutglsl.vcproj" Description="Done converting to new project file 'D:\cours ensgnement\2016 - 2017\S2\SGPU\20152016\TP0Shader\glutglsl.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="glutglsl" Source="glutglsl.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="glutglsl.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="glutglsl.sln" Description="Converted">
+</Event></UpgradeLog>
